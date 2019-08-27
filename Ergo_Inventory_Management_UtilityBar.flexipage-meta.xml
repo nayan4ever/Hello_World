@@ -12,5 +12,12 @@
     <template>
         <name>one:utilityBarTemplateDesktop</name>
     </template>
+<flexiPageRegions>
+        <name>backgroundComponents</name>
+        <type>Background</type>
+    </flexiPageRegions>
+    <masterLabel>Ergo Inventory Management UtilityBar</masterLabel>
+    <template>
+
     <type>UtilityBar</type>
 </FlexiPage>

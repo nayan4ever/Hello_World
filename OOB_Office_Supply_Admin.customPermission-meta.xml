@@ -3,3 +3,8 @@
     <description>For Ergo Inventory Management Admin Users.</description>
     <label>OOB Office Supply Admin</label>
 </CustomPermission>
+<CustomPermission xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>For Ergo Inventory Management Admin Users.</description>
+    <label>OOB Office Supply Admin</label>
+</CustomPermission>
+
